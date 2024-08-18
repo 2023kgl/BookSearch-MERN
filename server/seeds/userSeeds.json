@@ -1,0 +1,151 @@
+[
+    {
+      "username": "john_doe",
+      "email": "john.doe@example.com",
+      "password": "password123",
+      "savedBooks": [
+        {
+          "authors": ["Author One"],
+          "description": "A fascinating book about technology.",
+          "bookId": "1",
+          "image": "http://example.com/image1.jpg",
+          "link": "http://example.com/book1",
+          "title": "Tech Book"
+        }
+      ]
+    },
+    {
+      "username": "jane_smith",
+      "email": "jane.smith@example.com",
+      "password": "password456",
+      "savedBooks": [
+        {
+          "authors": ["Author Two"],
+          "description": "An exciting adventure novel.",
+          "bookId": "2",
+          "image": "http://example.com/image2.jpg",
+          "link": "http://example.com/book2",
+          "title": "Adventure Book"
+        },
+        {
+          "authors": ["Author Three"],
+          "description": "A deep dive into history.",
+          "bookId": "3",
+          "image": "http://example.com/image3.jpg",
+          "link": "http://example.com/book3",
+          "title": "History Book"
+        }
+      ]
+    },
+    {
+      "username": "alice_johnson",
+      "email": "alice.johnson@example.com",
+      "password": "password789",
+      "savedBooks": []
+    },
+    {
+      "username": "bob_brown",
+      "email": "bob.brown@example.com",
+      "password": "password101",
+      "savedBooks": [
+        {
+          "authors": ["Author Four"],
+          "description": "A mystery novel that keeps you on edge.",
+          "bookId": "4",
+          "image": "http://example.com/image4.jpg",
+          "link": "http://example.com/book4",
+          "title": "Mystery Book"
+        }
+      ]
+    },
+    {
+      "username": "charlie_clark",
+      "email": "charlie.clark@example.com",
+      "password": "password202",
+      "savedBooks": [
+        {
+          "authors": ["Author Five"],
+          "description": "A romance novel full of emotions.",
+          "bookId": "5",
+          "image": "http://example.com/image5.jpg",
+          "link": "http://example.com/book5",
+          "title": "Romance Book"
+        }
+      ]
+    },
+    {
+      "username": "david_davis",
+      "email": "david.davis@example.com",
+      "password": "password303",
+      "savedBooks": [
+        {
+          "authors": ["Author Six"],
+          "description": "A science fiction novel set in the future.",
+          "bookId": "6",
+          "image": "http://example.com/image6.jpg",
+          "link": "http://example.com/book6",
+          "title": "Sci-Fi Book"
+        },
+        {
+          "authors": ["Author Seven"],
+          "description": "A biography of a famous person.",
+          "bookId": "7",
+          "image": "http://example.com/image7.jpg",
+          "link": "http://example.com/book7",
+          "title": "Biography"
+        }
+      ]
+    },
+    {
+      "username": "emily_evans",
+      "email": "emily.evans@example.com",
+      "password": "password404",
+      "savedBooks": [
+        {
+          "authors": ["Author Eight"],
+          "description": "A thrilling horror novel.",
+          "bookId": "8",
+          "image": "http://example.com/image8.jpg",
+          "link": "http://example.com/book8",
+          "title": "Horror Book"
+        }
+      ]
+    },
+    {
+      "username": "frank_franklin",
+      "email": "frank.franklin@example.com",
+      "password": "password505",
+      "savedBooks": [
+        {
+          "authors": ["Author Nine"],
+          "description": "A collection of poetry.",
+          "bookId": "9",
+          "image": "http://example.com/image9.jpg",
+          "link": "http://example.com/book9",
+          "title": "Poetry Book"
+        }
+      ]
+    },
+    {
+      "username": "grace_green",
+      "email": "grace.green@example.com",
+      "password": "password606",
+      "savedBooks": []
+    },
+    {
+      "username": "harry_harris",
+      "email": "harry.harris@example.com",
+      "password": "password707",
+      "savedBooks": [
+        {
+          "authors": ["Author Ten"],
+          "description": "A comprehensive guide to cooking.",
+          "bookId": "10",
+          "image": "http://example.com/image10.jpg",
+          "link": "http://example.com/book10",
+          "title": "Cooking Guide"
+        }
+      ]
+    }
+  ]
+  

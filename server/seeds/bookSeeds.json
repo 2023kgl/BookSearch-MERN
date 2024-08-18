@@ -1,0 +1,83 @@
+[
+    {
+      "authors": ["John Smith"],
+      "description": "An insightful look into modern technology trends.",
+      "bookId": "tech123",
+      "image": "http://example.com/tech.jpg",
+      "link": "http://example.com/tech",
+      "title": "Modern Tech"
+    },
+    {
+      "authors": ["Jane Doe"],
+      "description": "A gripping adventure novel set in a fantastical world.",
+      "bookId": "adventure456",
+      "image": "http://example.com/adventure.jpg",
+      "link": "http://example.com/adventure",
+      "title": "The Great Quest"
+    },
+    {
+      "authors": ["Alice Johnson"],
+      "description": "A historical account of significant events in world history.",
+      "bookId": "history789",
+      "image": "http://example.com/history.jpg",
+      "link": "http://example.com/history",
+      "title": "History Unfolded"
+    },
+    {
+      "authors": ["Bob Brown"],
+      "description": "A thrilling mystery that will keep you on the edge of your seat.",
+      "bookId": "mystery101",
+      "image": "http://example.com/mystery.jpg",
+      "link": "http://example.com/mystery",
+      "title": "The Silent Shadow"
+    },
+    {
+      "authors": ["Emily Davis"],
+      "description": "A heartfelt romance novel that explores love and loss.",
+      "bookId": "romance202",
+      "image": "http://example.com/romance.jpg",
+      "link": "http://example.com/romance",
+      "title": "Love's Echo"
+    },
+    {
+      "authors": ["Michael Green"],
+      "description": "A futuristic science fiction tale with high-tech intrigue.",
+      "bookId": "sci-fi303",
+      "image": "http://example.com/scifi.jpg",
+      "link": "http://example.com/scifi",
+      "title": "Future Worlds"
+    },
+    {
+      "authors": ["Sarah Wilson"],
+      "description": "An inspiring biography of a well-known public figure.",
+      "bookId": "biography404",
+      "image": "http://example.com/biography.jpg",
+      "link": "http://example.com/biography",
+      "title": "Life in the Spotlight"
+    },
+    {
+      "authors": ["David Thompson"],
+      "description": "A chilling horror novel that delves into the supernatural.",
+      "bookId": "horror505",
+      "image": "http://example.com/horror.jpg",
+      "link": "http://example.com/horror",
+      "title": "Haunted"
+    },
+    {
+      "authors": ["Linda Martinez"],
+      "description": "A collection of poems that capture the essence of human experience.",
+      "bookId": "poetry606",
+      "image": "http://example.com/poetry.jpg",
+      "link": "http://example.com/poetry",
+      "title": "Verses of Life"
+    },
+    {
+      "authors": ["James Lee"],
+      "description": "A comprehensive guide to mastering culinary skills.",
+      "bookId": "cooking707",
+      "image": "http://example.com/cooking.jpg",
+      "link": "http://example.com/cooking",
+      "title": "Culinary Arts"
+    }
+  ]
+  
